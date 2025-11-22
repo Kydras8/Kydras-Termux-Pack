@@ -1,3 +1,11 @@
+<!-- Kydras Repo Header -->
+<p align="center">
+  <strong>Kydras Systems Inc.</strong><br/>
+  <em>Nothing is off limits.</em>
+</p>
+
+---
+
 # Kydras Termux Custom Banner
 🎨 Personal custom Termux banner with GitHub identity splash and operator mode activation.
 ## 🟣 Installation
@@ -29,3 +37,4 @@ echo "✅ Banner updates pushed to GitHub."
 chmod +x push-banner.sh
 ✅ Now you can update and push banner changes in one command:
 bash push-banner.sh
+
